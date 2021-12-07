@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MCD_ParticalClassNedir
 {
-    public class ogrenci
+    public partial class ogrenci
     {
         public int id { get; set; }
         public string isim { get; set; }
